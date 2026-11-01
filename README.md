@@ -2,6 +2,15 @@
 
 A Flappy Bird-inspired 2D game developed independently using **Unity and C#**.
 
+## Screenshots
+
+### Gameplay
+![Gameplay 1](Screenshots/Screenshot%202026-11-01%20105142.png)
+
+![Gameplay 2](Screenshots/Screenshot%202026-11-01%20105158.png)
+
+![Gameplay 3](Screenshots/Screenshot%202026-11-01%20105237.png)
+
 This project was built from scratch to apply programming concepts and explore game development through practical implementation.
 
 ## Gameplay
